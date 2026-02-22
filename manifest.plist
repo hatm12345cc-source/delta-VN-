@@ -2,33 +2,33 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</>
+	<key>items</key>
 	<array>
 		<dict>
-			<>assets</>
+			<key>assets</key>
 			<array>
 				<dict>
-					<>kind</>
+					<key>kind</key>
 					<string>software-package</string>
-					<>url</>
+					<key>url</key>
 					<string>https://github.com/hatm12345cc-source/DELTA-VNG/raw/main/Delta%20VN</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<>url</>
+					<key>url</key>
 					<string>https://raw.githubusercontent.com/hatm12345cc-source/delta-VN-/refs/heads/main/IMG_1882.jpeg</string>
 				</dict>
 			</array>
-			<>metadata</>
+			<key>metadata</key>
 			<dict>
-				<>bundle-identifier</>
+				<key>bundle-identifier</key>
 				<string>com.vng.roblox.delta</string>
-				<key>bundle-version</>
+				<key>bundle-version</key>
 				<string>1.0</string>
-				<>kind<>
+				<key>kind</key>
 				<string>software</string>
-				<>title</>
+				<key>title</key>
 				<string>Delta VN</string>
 			</dict>
 		</dict>
